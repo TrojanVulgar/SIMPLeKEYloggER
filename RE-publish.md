@@ -8,9 +8,9 @@
 
 3. This site is totally meant for providing information on Information Security and other related topics and is no way related towards the terms Cracking or Hacking.
 
-4. Few articles (posts) on this site may contain the information related to “Hacking Passwords” or “Hacking Websites” (Or Similar terms). These are not the GUIDES of Hacking. They only provide information about the legal ways of retrieving the passwords. You shall not misuse the information to gain unauthorised access. However you may try out these hacks on your own computer at your own risk. Performing hack attempts (without permission) on computers that you do not own is illegal.
+4. Few articles (posts) on this software may contain the information related to “Hacking Passwords” or “Hacking Websites” (Or Similar terms). These are not the GUIDES of Hacking. They only provide information about the legal ways of retrieving the passwords. You shall not misuse the information to gain unauthorised access. However you may try out these hacks on your own computer at your own risk. Performing hack attempts (without permission) on computers that you do not own is illegal.
 
-5. All the information on this site are meant for developing Hacker Defense attitude among the users and help preventing the hack attacks. www.ceos3c.com insists that these information shall not be used for causing any kind of damage directly or indirectly. However you may try these techniques on your own computer at your own risk.
+5. All the information on this site are meant for developing Hacker Defense attitude among the users and help preventing the hack attacks.  insists that these information shall not be used for causing any kind of damage directly or indirectly. However you may try these techniques on your own computer at your own risk.
 
 6. The word “Hack” or “Hacking” that is used on this site shall be regarded as “Ethical Hack” or “Ethical Hacking” respectively.
 
